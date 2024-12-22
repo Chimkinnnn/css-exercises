@@ -1,13 +1,13 @@
 .element{
     font-size: 28px;
-    font-family: "Helvetica" "Times New Roman" sans-serif;
+    font-family: Helvetica, "Times New Roman", sans-serif;
 }
 
 .element#one{
-    background: black;
+    background-color: black;
     color: white;
 }
 
 .element#two{
-    background: yellow;
+    background-color: yellow;
 }
